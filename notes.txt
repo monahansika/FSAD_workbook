@@ -1,5 +1,0 @@
-FSAD Experiment 1
-Git Version Control
-Creating and committing files
-
-Feature update branch changes added.
